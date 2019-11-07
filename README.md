@@ -1,7 +1,7 @@
 # Autoencoder-demo
 The demo to show how the Autoencoder works.
 
-Original Image:
+Original data:
 
 ![Alt Text](https://github.com/Cuilie/Autoencoder-demo/blob/master/result/original-data.png)
 
