@@ -1,8 +1,7 @@
 # Autoencoder-demo
 The demo to show how the Autoencoder works.
 
-Original data:\
-
+Original data, two dimentions:\
 ![Alt Text](https://github.com/Cuilie/Autoencoder-demo/blob/master/result/download.png)
 
 
